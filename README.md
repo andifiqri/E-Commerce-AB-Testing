@@ -49,7 +49,7 @@ Key analyses performed:
 
 3.	Data Distribution:
 
-    •	Visualized the distribution of users across the control and treatment groups.
+    •	The distribution of users across the control and treatment groups.
 
 # Statistical Analysis
 The following statistical tests were conducted:
