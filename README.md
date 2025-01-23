@@ -1,7 +1,9 @@
 # E-Commerce A/B Testing
 
 This repository contains an A/B testing analysis designed to evaluate the impact of a new landing page on user conversion rates. The analysis involves comprehensive steps, including data cleaning, exploratory data analysis (EDA), and statistical hypothesis testing.
+
 For this project, the dataset was sourced from Kaggle (https://www.kaggle.com/datasets/putdejudomthai/ecommerce-ab-testing-2022-dataset1) and represents an A/B test conducted by an e-commerce website. The company developed a new landing page aimed at increasing the number of users who "convert," meaning users who decide to pay for the company's product. The goal of this analysis is to determine whether the company should implement the new page, retain the old page, or consider extending the experiment to gather more data before making a decision.
+
 This project aims to provide actionable insights based on robust statistical methods to support data-driven decision-making.
 
 
